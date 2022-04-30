@@ -1,0 +1,19 @@
+body{
+	background-image: url("https://thumbs.dreamstime.com/z/horizontal-pattern-set-isolated-colored-pencils-arranged-arc-copy-space-note-text-white-background-rainbow-colors-140381354.jpg");
+   
+	   background-position: center;
+	   background-size: cover;
+   }
+   #myCanvas
+   {
+	 border-width:10px;
+	 background-color: white; 
+	 border-style:ridge;
+   }
+   
+   h1,h4
+   {
+	 color: #110022 !important;
+   }
+	 
+   }
